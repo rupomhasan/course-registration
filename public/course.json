@@ -1,0 +1,146 @@
+[
+   {
+      "id": 1,
+      "image": "https://i.ibb.co/vVm9xPM/Rectangle-2-2.png",
+      "name": "Introduction to C Programming",
+      "details": "Learn the fundamentals of C programming in this introductory course.",
+      "price": 4500,
+      "credit": 10
+   },
+   {
+      "id": 2,
+      "image": "https://i.ibb.co/pjRsSZy/Rectangle-2-3.png",
+      "name": "Introduction to Algorithms",
+      "details": "Discover the world of algorithms and problem-solving techniques.",
+      "price": 6000,
+      "credit": 12
+   },
+   {
+      "id": 3,
+      "image": "https://i.ibb.co/sgQ7xSP/Rectangle-2-4.png",
+      "name": "Introduction to C++",
+      "details": "Get started with C++ programming and object-oriented concepts.",
+      "price": 5500,
+      "credit": 10
+   },
+   {
+      "id": 4,
+      "image": "https://i.ibb.co/N16txB3/Rectangle-3.png",
+      "name": "Basic Data Structures",
+      "details": "Explore fundamental data structures and their applications.",
+      "price": 3800,
+      "credit": 8
+   },
+   {
+      "id": 5,
+      "image": "https://i.ibb.co/wyXWJwq/Rectangle-2.png",
+      "name": "Introduction to OOP Python",
+      "details": "Learn object-oriented programming in Python for software development.",
+      "price": 7000,
+      "credit": 11
+   },
+   {
+      "id": 6,
+      "image": "https://i.ibb.co/BTjkttM/Rectangle-2-5.png",
+      "name": "Software Engineering",
+      "details": "Dive into software engineering principles and best practices.",
+      "price": 8000,
+      "credit": 12
+   },
+   {
+      "id": 7,
+      "image": "https://i.ibb.co/zZnJxHQ/Rectangle-3-1.png",
+      "name": "AWS (Amazon Web Services)",
+      "details": "Master AWS cloud computing and infrastructure services.",
+      "price": 7500,
+      "credit": 10
+   },
+   {
+      "id": 8,
+      "image": "https://i.ibb.co/vLhDrFJ/Rectangle-2-6.png",
+      "name": "Cloud Computing Fundamentals",
+      "details": "Explore the basics of cloud computing and its benefits.",
+      "price": 4700,
+      "credit": 8
+   },
+   {
+      "id": 9,
+      "image": "https://i.ibb.co/BGmvLZv/Rectangle-2-1.png",
+      "name": "Database (MySQL)",
+      "details": "Learn MySQL for efficient database management and queries.",
+      "price": 6200,
+      "credit": 10
+   },
+   {
+      "id": 10,
+      "image": "https://i.ibb.co/Y49nydk/Problem-Solving-par-1.jpg",
+      "name": "Problem-Solving Part 1",
+      "details": "Enhance your problem-solving skills with various techniques.",
+      "price": 2700,
+      "credit": 9
+   },
+   {
+      "id": 11,
+      "image": "https://i.ibb.co/JFdhwZb/Digital-marketing.jpg",
+      "name": "Digital Marketing Essentials",
+      "details": "Learn the fundamentals of digital marketing strategies.",
+      "price": 5100,
+      "credit": 9
+   },
+   {
+      "id": 12,
+      "image": "https://i.ibb.co/YZmKm2N/Artifitial.jpg",
+      "name": "Artificial Intelligence Fundamentals",
+      "details": "Discover the basics of artificial intelligence and its applications.",
+      "price": 8200,
+      "credit": 10
+   },
+   {
+      "id": 13,
+      "image": "https://i.ibb.co/w72XmcZ/Data-Science.jpg",
+      "name": "Data Science and Machine Learning",
+      "details": "Explore data science and machine learning concepts and techniques.",
+      "price": 5900,
+      "credit": 12
+   },
+   {
+      "id": 14,
+      "image": "https://i.ibb.co/2SJfm5S/Digital-Art.jpg",
+      "name": "Digital Art and Animation",
+      "details": "Create digital art and animations using popular software.",
+      "price": 4000,
+      "credit": 9
+   },
+   {
+      "id": 15,
+      "image": "https://i.ibb.co/d5yw6Xx/Mobile-App-Dev.jpg",
+      "name": "Mobile App Development",
+      "details": "Learn mobile app development for Android and iOS platforms.",
+      "price": 6700,
+      "credit": 11
+   },
+   {
+      "id": 16,
+      "image": "https://i.ibb.co/gSjX5F1/Project-Managment.jpg",
+      "name": "Project Management Basics",
+      "details": "Get an introduction to project management principles.",
+      "price": 3300,
+      "credit": 8
+   },
+   {
+      "id": 17,
+      "image": "https://i.ibb.co/kmD4PQD/Networking.jpg",
+      "name": "Networking ",
+      "details": "Learn about network security and its importance in the digital world.",
+      "price": 5900,
+      "credit": 10
+   },
+   {
+      "id": 18,
+      "image": "https://i.ibb.co/xLjSxHP/Ecommerce.jpg",
+      "name": "E-commerce Strategies",
+      "details": "Develop effective e-commerce business strategies and tactics.",
+      "price": 5400,
+      "credit": 9
+   }
+]
