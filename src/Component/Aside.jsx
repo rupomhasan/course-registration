@@ -21,7 +21,7 @@ const Aside = ({course , creditHour,amount,remainingCredit}) => {
             <h3 className="text-2xl font-semibold border-t-2 py-3">
                Total Credit Hour : {creditHour}
             </h3>
-            <h3 className="font-bold text-2xl border-t-2 py-5">Total Price : {amount}</h3>
+            <h3 className="font-bold text-2xl border-t-2 py-5">Total Price : {amount} USD</h3>
          </div>
       </div>
    );
