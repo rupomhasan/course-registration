@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+import PropTypes from 'prop-types';
 import React from "react";
 import { GoBook } from 'react-icons/go';
 const Card = ({ card,handleToSelectCourse }) => {
@@ -36,5 +37,8 @@ const Card = ({ card,handleToSelectCourse }) => {
       </div>
    );
 };
-
+Card.propTypes = {
+   handleToSelectCourse : PropTypes.func,
+   card : PropTypes.object
+}
 export default Card;

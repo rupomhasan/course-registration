@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-vars */
+import PropTypes from 'prop-types';
 import React, { useEffect, useState } from 'react';
 import '../../public/course.json';
 import Card from '../Component/Card';
@@ -21,4 +22,7 @@ const Main = ({handleToSelectCourse}) => {
     );
 };
 
+Main.propTypes = {
+    handleToSelectCourse : PropTypes.func
+}
 export default Main;
