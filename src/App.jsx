@@ -32,7 +32,7 @@ function App() {
    return (
       <div className="bg-gray-50">
          <Header length={course.length}></Header>
-         <div className="md:flex gap-10 mx-3">
+         <div className="md:flex gap-7 mx-3">
             <Main handleToSelectCourse={handleToSelectCourse}></Main>
             <Aside remainingCredit={residualCredit} 
             amount = {cost} creditHour={totalHour} course={course}></Aside>

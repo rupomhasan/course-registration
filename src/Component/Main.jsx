@@ -14,7 +14,7 @@ const Main = ({handleToSelectCourse}) => {
     },[])
 
     return (
-        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:w-2/3 my-10 order-0'>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 md:w-3/4 my-10 order-0'>
              {
                 cards.map(card=> <Card handleToSelectCourse={handleToSelectCourse} key={card.id} card={card}></Card>)
              }   

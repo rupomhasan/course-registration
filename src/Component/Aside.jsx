@@ -5,7 +5,7 @@ const Aside = ({course , creditHour,amount,remainingCredit}) => {
     console.log(course)
     
    return (
-      <div className="lg:w-1/3 my-10 rounded-xl bg-white p-5 h-fit">
+      <div className="lg:w-1/4 my-10 rounded-xl bg-white p-5 h-fit shadow-xl">
          <div className="text-left">
             <h3 className="font-bold text-2xl text-[#2f80ed] border-b-2 pb-4">
                Credit Remaining {remainingCredit} hr
